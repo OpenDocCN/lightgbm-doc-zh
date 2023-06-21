@@ -23,8 +23,6 @@ LightGBM 是一个梯度 boosting 框架, 使用基于学习算法的决策树.
 ## 文档地址
 
 +   [在线阅读](http://lightgbm.apachecn.org)
-+   [在线阅读（Gitee）](https://apachecn.gitee.io/lightgbm-doc-zh/)
-
 ## 项目负责人
 
 *   [@那伊抹微笑](https://github.com/wangyangting)
@@ -56,14 +54,6 @@ docker run -tid -p <port>:80 apachecn0/lightgbm-doc-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
-
-```
-pip install lightgbm-doc-zh
-lightgbm-doc-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
-
 ### NPM
 
 ```
@@ -71,12 +61,6 @@ npm install -g lightgbm-doc-zh
 lightgbm-doc-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
-
-## 贡献指南
-
-为了使项目更加便于维护，我们将文档格式全部转换成了 Markdown，同时更换了页面生成器。后续维护工作将完全在 Markdown 上进行。
-
-小部分格式仍然存在问题，主要是链接和表格。需要大家帮忙找到，并提 PullRequest 来修复。
 
 ## 建议反馈
 
@@ -87,9 +71,9 @@ lightgbm-doc-zh <port>
 
 ## 组织学习交流群
 
-机器学习交流群: [629470233](http://shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03) （2000人）
+机器学习交流群: [629470233](http://shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03) （2000 人）
 
-大数据交流群: [214293307](http://shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03) （2000人）
+大数据交流群: [214293307](http://shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03) （2000 人）
 
 了解我们: [http://www.apachecn.org/organization/209.html](http://www.apachecn.org/organization/209.html)
 
