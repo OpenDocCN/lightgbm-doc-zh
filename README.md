@@ -22,7 +22,7 @@ LightGBM 是一个梯度 boosting 框架, 使用基于学习算法的决策树.
 
 ## 文档地址
 
-+   [在线阅读](http://lightgbm.apachecn.org)
++   [在线阅读](http://lightgbm.flygon.net)
 ## 项目负责人
 
 *   [@那伊抹微笑](https://github.com/wangyangting)
@@ -66,8 +66,8 @@ lightgbm-doc-zh <port>
 
 *   联系项目负责人 [@那伊抹微笑](https://github.com/wangyangting).
 *   在我们的 [apachecn/lightgbm-doc-zh](https://github.com/apachecn/lightgbm-doc-zh) github 上提 issue.
-*   发送到 Email: lightgbm#apachecn.org（#替换成@）.
-*   在我们的 [组织学习交流群](./apachecn-learning-group.rst) 中联系群主/管理员即可.
+*   发送到 Email: lightgbm#flygon.net（#替换成@）.
+*   在我们的 [组织学习交流群](./flygon-learning-group.rst) 中联系群主/管理员即可.
 
 ## 组织学习交流群
 
@@ -75,8 +75,8 @@ lightgbm-doc-zh <port>
 
 大数据交流群: [214293307](http://shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03) （2000 人）
 
-了解我们: [http://www.apachecn.org/organization/209.html](http://www.apachecn.org/organization/209.html)
+了解我们: [http://www.flygon.net/organization/209.html](http://www.flygon.net/organization/209.html)
 
-加入组织: [http://www.apachecn.org/organization/209.html](http://www.apachecn.org/organization/209.html)
+加入组织: [http://www.flygon.net/organization/209.html](http://www.flygon.net/organization/209.html)
 
-更多信息请参阅: [http://www.apachecn.org/organization/348.html](http://www.apachecn.org/organization/348.html)
+更多信息请参阅: [http://www.flygon.net/organization/348.html](http://www.flygon.net/organization/348.html)
